@@ -1,0 +1,9 @@
+.bg-rounded-btn {
+    background-image: url("../assets/rounded.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-footer-1 {
+    background-color: rgb(40, 36, 36);
+}
